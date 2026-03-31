@@ -1,2 +1,7 @@
 <Solution>
+  <Project Path="CalendarLife.Api/CalendarLife.Api.csproj" />
+  <Project Path="CalendarLife.Domain/CalendarLife.Domain.csproj" />
+
+
+
 </Solution>
