@@ -1,4 +1,4 @@
-# Life Grid To-Do API 🟩
+# Calendar Life To-Do API 🟩
 
 A robust, enterprise-grade ASP.NET Core (.NET 10) Web API designed to serve as the backend for a "Life Grid" To-Do application. This project visualizes a user's life in days/weeks represented as a grid, tracking daily habits, journaling, and calculating lifetime statistics.
 
